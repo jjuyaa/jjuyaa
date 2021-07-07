@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![dev_jjuyaa's github stats](https://github-readme-stats.vercel.app/api?username=jjuyaa&theme=buefy&show_icons=true)
+
 <!--
 **jjuyaa/jjuyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,9 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-![dev_jjuyaa's github stats](https://github-readme-stats.vercel.app/api?username=jjuyaa&theme=buefy&show_icons=true)
 
 <a href="https://github.com/jjuyaa/Study-Android">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jjuyaa&repo=Study-Android&theme=buefy" />
@@ -32,4 +31,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/CultureCabinet/CultureCabinet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CultureCabinet&repo=CultureCabinet&theme=buefy" />
 </a>
-
+-->
