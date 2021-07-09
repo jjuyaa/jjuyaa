@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![dev_jjuyaa's github stats](https://github-readme-stats.vercel.app/api?username=jjuyaa&theme=buefy&show_icons=true)
+![dev_jjuyaa's github stats](https://github-readme-stats.vercel.app/api?username=jjuyaa&hide=stars&theme=buefy&show_icons=true)
+![Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jjuyaa&layout=compact&theme=buefy)
 
 <!--
 **jjuyaa/jjuyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
